@@ -1,0 +1,125 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://plus.unsplash.com/premium_photo-1697730198238-48ee2f2fe1b7?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://plus.unsplash.com/premium_photo-1733317293766-5606f74b765b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "Known for its historic temples, gardens, and traditional tea houses."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "https://plus.unsplash.com/premium_photo-1671211307997-f4f552b0601c?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "https://plus.unsplash.com/premium_photo-1680806491608-af096f1fc916?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Vietnam",
+      "cities": [
+        {
+          "name": "Ho Chi Minh City, Vietnam",
+          "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=870&auto=format&fit=crop",
+          "description": "The bustling economic hub, formerly known as Saigon, famous for its French colonial landmarks, vibrant street food, and war history."
+        },
+        {
+          "name": "Tay Ninh, Vietnam",
+          "imageUrl": "https://images.unsplash.com/photo-1651454676697-89d914710a1a?q=80&w=775&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "description": "A spiritual destination home to the majestic Black Virgin Mountain (Nui Ba Den) and the colorful Cao Dai Holy See Temple."
+        },
+        {
+          "name": "Hanoi, Vietnam",
+          "imageUrl": "https://images.unsplash.com/photo-1555921015-5532091f6026?q=80&w=870&auto=format&fit=crop",
+          "description": "The charming capital city known for its centuries-old architecture, peaceful Hoan Kiem Lake, and the busy streets of the Old Quarter."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661963850090-cf5b2f556b4d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+    },
+    {
+      "id": 3,
+      "name": "Ba Den Temple Complex (Nui Ba Den), Vietnam",
+      "imageUrl": "https://images.unsplash.com/photo-1731052209437-5afd06bc0c9b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Located atop the 'Black Virgin Mountain,' this spiritual complex features majestic statues, pagodas, and breathtaking views above the clouds."
+    },
+    {
+      "id": 4,
+      "name": "Cao Dai Holy See, Vietnam",
+      "imageUrl": "https://images.unsplash.com/photo-1719251274250-2680c212a993?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A colorful architectural marvel in Tay Ninh, representing the fusion of Buddhism, Christianity, Taoism, and Confucianism."
+    },
+    {
+      "id": 5,
+      "name": "Tran Quoc Pagoda, Vietnam",
+      "imageUrl": "https://images.unsplash.com/photo-1627785816740-17b46054ba1f?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The oldest Buddhist temple in Hanoi, located on a small island in West Lake, famous for its tall red pagoda and peaceful sunset views."
+    },
+    {
+      "id": 6,
+      "name": "Linh Ung Pagoda, Vietnam",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1692673142063-e1184cb78c0e?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Situated on the Son Tra Peninsula in Da Nang, famous for its gigantic Lady Buddha statue overlooking the ocean."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1679865371962-effb9566301d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+    }
+  ]
+}
